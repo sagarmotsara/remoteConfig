@@ -1,3 +1,16 @@
 {
-"isMoreData" : true
+"brand": "Samsung",
+"model": "Galaxy S24",
+"os": "Android 14",
+"display_size_inches": 6.2,
+"processor": "Exynos 2400",
+"ram_gb": 8,
+"storage_gb": 256,
+"isMoreData" : true,
+"battery_mah": 4000,
+"camera_rear_mp": "50 + 10 + 12",
+"camera_front_mp": 12,
+"dual_sim": true,
+"5g_supported": true,
+"release_year": 2024
 }
