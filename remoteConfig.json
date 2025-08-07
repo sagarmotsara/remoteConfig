@@ -6,7 +6,7 @@
 "processor": "Exynos 2400",
 "ram_gb": 8,
 "storage_gb": 256,
-"isMoreData" : true,
+"isMoreData" : false,
 "battery_mah": 4000,
 "camera_rear_mp": "50 + 10 + 12",
 "camera_front_mp": 12,
